@@ -11,7 +11,7 @@ import net.javaguides.sms.entity.Student;
 import net.javaguides.sms.service.StudentService;
 
 @Controller
-public class StudentController {
+public class StudentController {hhh
 	
 	private StudentService studentService;
 
